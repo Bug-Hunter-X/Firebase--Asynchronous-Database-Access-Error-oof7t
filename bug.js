@@ -1,0 +1,1 @@
+This error occurs when you try to access a Firebase Realtime Database reference before it's fully initialized.  This can happen if you attempt to read or write data before the `onAuthStateChanged` listener has completed or if your database rules prevent access.
