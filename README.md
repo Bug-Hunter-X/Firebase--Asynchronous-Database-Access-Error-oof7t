@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Firebase Realtime Database interactions: attempting to access the database before it is fully initialized.  The `bug.js` file showcases the incorrect approach, leading to errors.  The `bugSolution.js` file provides the corrected implementation, illustrating how to handle asynchronous operations properly.
